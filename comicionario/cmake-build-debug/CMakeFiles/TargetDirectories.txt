@@ -1,0 +1,3 @@
+C:/Users/ryanb/CLionProjects/comicionario/cmake-build-debug/CMakeFiles/comicionario.dir
+C:/Users/ryanb/CLionProjects/comicionario/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ryanb/CLionProjects/comicionario/cmake-build-debug/CMakeFiles/rebuild_cache.dir

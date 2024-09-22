@@ -1,0 +1,27 @@
+Index: main.cpp
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/main.cpp b/main.cpp
+--- a/main.cpp	
++++ b/main.cpp	(date 1726235615343)
+@@ -7,6 +7,8 @@
+         pct=0.017;
+         cmf=30;
+         vf=vv+cmf+(vv*pct);
++        if (vf-vv<=39){
++            vf=39;
+     }else if (vv<=6250) {
+         pct=0.066;
+         cmf=56;
+@@ -28,8 +30,7 @@
+         cmf=255;
+         vf=vv+cmf+(vv*pct);
+     }
+-    if (vf-vv<=39){
+-        vf=39;
++
+     printf("O valor ede venda é de R$%.2f\n e seguindo a tabela as comicoes sao de R$%.2f fixos e R$%.2f\n totalizando R$%.2f",vv,cmf,pct,vf);
+     }else
+    // printf("vv%.2f pct%f cmf%.2f vf%.2f",vv,pct,cmf,vf);

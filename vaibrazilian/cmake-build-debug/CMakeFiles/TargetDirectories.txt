@@ -1,0 +1,3 @@
+C:/Users/ryanb/CLionProjects/vaibrazilian/cmake-build-debug/CMakeFiles/vaibrazilian.dir
+C:/Users/ryanb/CLionProjects/vaibrazilian/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ryanb/CLionProjects/vaibrazilian/cmake-build-debug/CMakeFiles/rebuild_cache.dir
