@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: gstjn-s2mac
+created: 2024-09-21T13:08:52-03:00
